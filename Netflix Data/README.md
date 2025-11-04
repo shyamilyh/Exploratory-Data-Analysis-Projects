@@ -85,7 +85,7 @@ Netflix_Data_Cleaning_Analysis_Visualization/
 │
 └── Netflix_Data_Cleaning,_Analysis_and_Visualization.ipynb   	# Main analysis notebook  
 └── README.md                                                 	# Project documentation  
-└── Dataset								                              # Dataset 
+└── Dataset								                             # Dataset 
 └── Netflix_Data_Cleaning_Analysis_and_Visualization – Report 	# Report
 └── Netflix_Data_Cleaning_Analysis_and_Visualization.pdf       # Notebook PDF
 
