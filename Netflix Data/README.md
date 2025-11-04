@@ -93,7 +93,7 @@ Netflix_Data_Cleaning_Analysis_Visualization/
 
 ### ✨ Author  
 **Shyamily Haridas**  
-📫 *Data Science Enthusiast | Exploring Insights from Data*  
-🔗 [LinkedIn](#) | [GitHub](#) | [Portfolio](#)
+📫 Data Scientist & ML Engineer
+
 
 ---
