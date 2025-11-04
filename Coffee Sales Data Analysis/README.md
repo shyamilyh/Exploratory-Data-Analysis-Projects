@@ -73,7 +73,7 @@ Coffee_Sales_Data_Analysis/
 │
 ├── Coffee_Sales_Data_Analysis.ipynb      # Main analysis notebook  
 ├── README.md                             # Project documentation  
-└── coffee_sales                          # Dataset 
+└── coffee_sales.csv                      # Dataset 
 └── Coffee_Sales_Data_Analysis - Report   # Report                         
 ``` 
 
@@ -81,7 +81,7 @@ Coffee_Sales_Data_Analysis/
 
 ### ✨ Author  
 **Shyamily Haridas**  
-📫 *Data Science Enthusiast | Exploring Insights from Data*  
+📫 *Data Scientist & ML Engineer 
 🔗 [LinkedIn](#) | [GitHub](#) | [Portfolio](#)
 
 ---
