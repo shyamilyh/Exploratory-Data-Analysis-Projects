@@ -91,16 +91,6 @@ Netflix_Data_Cleaning_Analysis_Visualization/
 
 ```
 
----
-
-## 💡 Future Scope  
-
-- Build a **Netflix Insights Dashboard** using Streamlit or Power BI.  
-- Perform **genre-based sentiment analysis** using user reviews (if available).  
-- Use **machine learning models** to predict popular genres or audience ratings.  
-
----
-
 ### ✨ Author  
 **Shyamily Haridas**  
 📫 *Data Science Enthusiast | Exploring Insights from Data*  
